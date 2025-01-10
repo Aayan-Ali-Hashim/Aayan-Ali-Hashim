@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I am Aayan Ali Hashim , a Python Developer , learning Data Science
 
 <!--
 **Aayan-Ali-Hashim/Aayan-Ali-Hashim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
