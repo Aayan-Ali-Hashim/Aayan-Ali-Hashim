@@ -30,4 +30,9 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Aayan-Ali-Hashim&theme=tokyonight)](https://git.io/streak-stats)
 
+<p>
+ 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aayan-Ali-Hashim)](https://github.com/anuraghazra/github-readme-stats)
+</p>
+
 
