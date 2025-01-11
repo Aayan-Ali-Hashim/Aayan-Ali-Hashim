@@ -11,8 +11,8 @@
  
 <a href="https://www.linkedin.com/in/aayan-ali-922a14p1b/"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/LinkedIn.svg" width="50px" height="50px" /> </a>
 <a href="https://www.youtube.com/@notacoder2159"><img src="https://cdn.pixabay.com/photo/2016/07/03/18/36/youtube-1495277_1280.png" width="60px" height="48px"/></a>
- <a href="https://www.instagram.com/thepiyushmalhotra/">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
+ <a href="https://www.gmail.com/aayanali1065@gmail.com">
+  <img height="50" src="https://raw.githubusercontent.com/Aayan-Ali-Hashim/Aayan-Ali-Hashim/28ec52b50f85857c0c1f5d15abf60d4faa0b6ec2/gmail.svg"/>
 </a>
 </p>
 
