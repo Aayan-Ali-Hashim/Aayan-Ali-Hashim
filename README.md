@@ -11,33 +11,23 @@
  
 <a href="https://www.linkedin.com/in/aayan-ali-922a14p1b/"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/LinkedIn.svg" width="50px" height="50px" /> </a>
 <a href="https://www.youtube.com/@notacoder2159"><img src="https://cdn.pixabay.com/photo/2016/07/03/18/36/youtube-1495277_1280.png" width="60px" height="48px"/></a>
+ <a href="https://www.instagram.com/thepiyushmalhotra/">
+  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
+</a>
 </p>
 
   <h4>About Me:</h4> <p> I have over 2 years of experience teaching Python online to learners of all ages. Believe it or not, I can even teach Python to a 7-year-old! My data science journey began in 2022, but I truly focused on it in 2024, alongside a professional Software Development course where I learned full-stack development. <br/><br/> I am passionate about data science and am currently taking an MLOps course to dive deeper into Machine Learning, NLP, and Deep Learning. With my frontend and backend development expertise, I can seamlessly integrate machine learning models into applications, offering a complete problem-solving experience. </p> <h3> 💻 Languages and Tools: 🛠️ </h3>
-<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  <div style="text-align: center;">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="50" height="50" alt="HTML" />
-    <p>HTML</p>
-  </div>
-  <div style="text-align: center;">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="50" height="50" alt="CSS" />
-    <p>CSS</p>
-  </div>
-  <div style="text-align: center;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript" />
-    <p>JavaScript</p>
-  </div>
-  <div style="text-align: center;">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="50" height="50" alt="React" />
-    <p>React</p>
-  </div>
-  <div style="text-align: center;">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="50" height="50" alt="Python" />
-    <p>Python</p>
-  </div>
-  <div style="text-align: center;">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="50" height="50" alt="Git" />
-    <p>Git</p>
-  </div>
-</div>
+
+<p align="center">
+  <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="50" height="50" alt="HTML"/></a>
+  <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="50" height="50" alt="CSS"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript"/></a>
+  <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="50" height="50" alt="React"/></a>
+  <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="50" height="50" alt="Python"/></a>
+  <a href="#"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="50" height="50" alt="Git"/></a>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
+</p>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Aayan-Ali-Hashim&theme=tokyonight)](https://git.io/streak-stats)
+
 
