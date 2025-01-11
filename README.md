@@ -7,7 +7,11 @@
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWR0MGxibXFsdHB6ejBtY214bWNhamV4aGo1NWh2ajl2NWt1M2k1cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4FQMuOKR6zQRO/giphy.gif" alt="Brain GIF" />
 </p>
 <h3>Lets Connect with me: </h3>
+<p align="center">
+ 
 <a href="https://www.linkedin.com/in/aayan-ali-922a14p1b/"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/LinkedIn.svg" width="50px" height="50px" /> </a>
+<a href="https://www.youtube.com/@notacoder2159"><img src="https://cdn.pixabay.com/photo/2016/07/03/18/36/youtube-1495277_1280.png" width="60px" height="48px"/></a>
+</p>
 
   <h4>About Me:</h4> <p> I have over 2 years of experience teaching Python online to learners of all ages. Believe it or not, I can even teach Python to a 7-year-old! My data science journey began in 2022, but I truly focused on it in 2024, alongside a professional Software Development course where I learned full-stack development. <br/><br/> I am passionate about data science and am currently taking an MLOps course to dive deeper into Machine Learning, NLP, and Deep Learning. With my frontend and backend development expertise, I can seamlessly integrate machine learning models into applications, offering a complete problem-solving experience. </p> <h3> 💻 Languages and Tools: 🛠️ </h3>
   <span>
