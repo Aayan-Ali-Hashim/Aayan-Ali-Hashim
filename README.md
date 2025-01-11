@@ -14,6 +14,30 @@
 </p>
 
   <h4>About Me:</h4> <p> I have over 2 years of experience teaching Python online to learners of all ages. Believe it or not, I can even teach Python to a 7-year-old! My data science journey began in 2022, but I truly focused on it in 2024, alongside a professional Software Development course where I learned full-stack development. <br/><br/> I am passionate about data science and am currently taking an MLOps course to dive deeper into Machine Learning, NLP, and Deep Learning. With my frontend and backend development expertise, I can seamlessly integrate machine learning models into applications, offering a complete problem-solving experience. </p> <h3> 💻 Languages and Tools: 🛠️ </h3>
-  <span>
-<span style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center; align-items: center;"> <div style="text-align: center;"> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="50" height="50" alt="HTML"/> <p>HTML</p> </span> <span style="text-align: center;"> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="50" height="50" alt="CSS"/> <p>CSS</p> </span> <div style="text-align: center;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript"/> <p>JavaScript</p> </div> <div style="text-align: center;"> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="50" height="50" alt="React"/> <p>React</p> </div> <div style="text-align: center;"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="50" height="50" alt="Python"/> <p>Python</p> </div> <div style="text-align: center;"> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="50" height="50" alt="Git"/> <p>Git</p> </div> </div>
-  </span>
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+  <div style="text-align: center;">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="50" height="50" alt="HTML" />
+    <p>HTML</p>
+  </div>
+  <div style="text-align: center;">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="50" height="50" alt="CSS" />
+    <p>CSS</p>
+  </div>
+  <div style="text-align: center;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript" />
+    <p>JavaScript</p>
+  </div>
+  <div style="text-align: center;">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="50" height="50" alt="React" />
+    <p>React</p>
+  </div>
+  <div style="text-align: center;">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="50" height="50" alt="Python" />
+    <p>Python</p>
+  </div>
+  <div style="text-align: center;">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="50" height="50" alt="Git" />
+    <p>Git</p>
+  </div>
+</div>
+
